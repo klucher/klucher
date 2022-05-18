@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
-My name is Jacob Klucher and I am a student at ETSU working on my undergraduate degree in computing!
+- I am a student at ETSU working on my undergraduate degree in computing!
+- I'm interested in becoming a software/application developer or a data analyst and I am always looking to improve my programming skills.
+- Right now I am super into reading, especially fantasy and science fiction, and I'm 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: klucher@etsu.edu
+
+
+- 📫 Email Me: klucher@etsu.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
